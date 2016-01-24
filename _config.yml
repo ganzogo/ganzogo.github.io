@@ -1,0 +1,20 @@
+# Site settings
+title: ganzogo
+email: info@ganzogo.com
+description: >
+  ganzogo.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: ganzogo
+email: info@ganzogo.com
+twitter_username: ganzogo
+github_username: ganzogo
+copyright: Ganzogo Limited
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
